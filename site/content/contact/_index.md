@@ -3,12 +3,17 @@ title: "Contact"
 contact_entries:
   - heading: Location
     text: |
-      3250 Blazer Parkway  
-      Lexington, KY 40509
+      137 Main Steet 
+      Paintsville, KY 41240
+  - heading: Mailing Address
+    text: |
+      P.O. BOX 630  
+      Paintsville, KY 41240
   - heading: Phone, Fax & Email
     text: |
-      (859) 264-7500 - Office  
-      (859) 264-7501 - Fax  
-      info@cdpengineers.com
+      (606) 789-2630 - Office  
+      (606) 297-2636 - After Hours  
+      (606) 789-2631 - Fax
+      mail@paintsvilleutilities.com
 ---
 
