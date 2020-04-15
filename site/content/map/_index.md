@@ -1,5 +1,5 @@
 ---
-center: '{"type":"Point","coordinates":[-85.6120655,36.9786425]}'
-zoom: 15
+center: '{"type":"Point","coordinates":[-82.8022814,37.8146662]}'
+zoom: 13
 title: Map
 ---
