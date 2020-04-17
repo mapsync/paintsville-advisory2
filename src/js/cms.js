@@ -53,7 +53,7 @@ var NotificationControl = class Control extends React.Component {
       disabled: true
     });
     var link = document.getElementById("link-field-" + (id - 1)).value;
-    if (link == "" || link.startsWith(`https://${account}.geosync.cloud/admin`) || link.startsWith(`https://${netlify}.netlify.app/admin`) || link.startsWith(`https://${account}.netlify.com/admin`)) {
+    if (link == "" || link.startsWith(`https://${account}.geosync.cloud/admin`) || link.startsWith(`https://${netlify}.netlify.app/admin`) || link.startsWith(`https://${netlify}.netlify.com/admin`)) {
       link = `https://${account}.geosync.cloud`
     }
     else if (link.startsWith(`https://${netlify}.netlify.app`) || link.startsWith(`https://${netlify}.netlify.com`)) {
