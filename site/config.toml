@@ -5,7 +5,10 @@ title = "Paintsville Utilities"
 
 [params]
     Id = "paintsvilleutilities"
-    Facebook = "https://www.facebook.com/cdpky"
+    Color = "#1b72e8"
+    AppTitle = "PU Advisory"
+    Description = "Alerts and interactive map to serve the customers of Paintsville Utilities"
+    Facebook = ""
     BillPay = "https://paintsvilleutilities.epayub.com/Account/Login?ReturnUrl=%2F"
 
 [blackfriday]
