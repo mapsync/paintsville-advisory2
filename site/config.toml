@@ -8,7 +8,7 @@ title = "Paintsville Utilities"
     Color = "#1b72e8"
     AppTitle = "PU Advisory"
     Description = "Alerts and interactive map to serve the customers of Paintsville Utilities"
-    Facebook = ""
+    Facebook = "https://www.facebook.com/Paintsville-Utilities-1092775934154310"
     BillPay = "https://paintsvilleutilities.epayub.com/Account/Login?ReturnUrl=%2F"
 
 [blackfriday]
