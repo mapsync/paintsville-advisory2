@@ -3,7 +3,7 @@ title: "Contact"
 contact_entries:
   - heading: Location & Hours
     text: |
-      137 Main Steet 
+      137 Main Steet  
       Paintsville, KY 41240  
       Monday - Friday, 7:30 a.m. - 4:00 p.m.
   - heading: Mailing Address
@@ -14,8 +14,8 @@ contact_entries:
     text: |
       (606) 789-2630 - Office  
       (606) 297-2636 - After Hours  
-      (606) 789-2631 - Fax
-      http://www.paintsvilleutilities.com
+      (606) 789-2631 - Fax  
+      http://www.paintsvilleutilities.com  
       mail@paintsvilleutilities.com
   - heading: Information
     text: |
