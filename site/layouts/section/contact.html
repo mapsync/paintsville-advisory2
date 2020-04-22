@@ -5,7 +5,7 @@
 
 		<div class="flex-ns flex-wrap mb3">
 	        {{ range .Params.contact_entries }}
-				<div style="flex: 0 0 50%;">
+				<div style="flex: 0 0 50%;padding: 0 1rem;">
 					<h4 class="f4 b lh-title mb2 mt3 primary" style="text-align:center;">{{ .heading }}</h4>
 					<p>{{ .text | markdownify }}</p>
 				</div>
