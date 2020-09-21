@@ -10,17 +10,7 @@ September 21, 2020
 
 Due to a line break, although no contamination has been confirmed, Paintsville Utilities has voluntarily issued a boil water advisory for:
 
-
-
-**The north side of Third Street from Court Street to Margaret Heights.**
-
-**Fourth Street, Fifth Street, Carter Lane, Elm Street and Margaret Heights.**
-
-**College Street from Third Street to Carter Lane.**
-
-**Court Street from Third Street to the end of Happy Hollow.**
-
-
+**MAIN STREET IN PAINTSVILLE FROM INTERSECTION OF COLLEGE ST. UP TO THE INTERSECTION OF EUCLID AVE.**
 
 This advisory is being issued as a precautionary measure and is in effect until further notice.
 
