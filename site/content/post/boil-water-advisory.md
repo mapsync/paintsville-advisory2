@@ -1,5 +1,5 @@
 ---
-title: "Boil Water Advisory "
+title: Boil Water Advisory TEMPLATE
 draft: true
 date: 2021-01-07T18:39:21.714Z
 description: "Boil Water Advisory "
