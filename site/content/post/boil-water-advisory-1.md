@@ -8,7 +8,7 @@ description: "Boil Water Advisory "
 
 **Due to a line leak, although no contamination has been confirmed, Paintsville Utilities has voluntarily issued a boil water advisory for the following areas:**
 
-**ALL OF SHADY LANE IN WITTENSVILLE, KY**
+**ALL OF SHADY LANE AND MCCLURE VILLAGE IN WITTENSVILLE**
 
 **This advisory is being issued as a precautionary measure and is in effect until further  notice.**
 
