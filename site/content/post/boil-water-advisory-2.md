@@ -8,7 +8,7 @@ BOIL WATER ADVISORY
 
 Due to a line break, although no contamination has been confirmed, Paintsville Utilities has voluntarily issued a boil water advisory for the following areas:
 
-FRANK ST. IN PAINTSILLE AND EUDLID AVE. BEGINNING AT STAFFORD ST. UP TO PRESTON ST. (STAFFORD AND PRESTON ARE NOT INCLUDED IN THIS ADVISORY.)
+FRANK ST. IN PAINTSVILLE AND EUCLID AVE. BEGINNING AT STAFFORD ST. UP TO PRESTON ST. (STAFFORD AND PRESTON ARE NOT INCLUDED IN THIS ADVISORY.)
 
 This advisory is being issued as a precautionary measure and is in effect until further notice.
 
