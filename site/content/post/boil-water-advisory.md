@@ -1,14 +1,14 @@
 ---
-title: Boil Water Advisory TEMPLATE
+title: Boil Water Advisory
 draft: true
 date: 2021-01-07T18:39:21.714Z
 description: "Boil Water Advisory "
 ---
 **BOIL WATER ADVISORY** 
 
-
-
 Due to a line break, although no contamination has been confirmed, **Paintsville Utilities has voluntarily issued a boil water advisory for our customers in the following areas:**
+
+**ROBIN HILL ROAD AND ROBIN COURT IN PAINTSVILLE**
 
  This advisory is being issued as a precautionary measure and is in effect until further notice.
 
