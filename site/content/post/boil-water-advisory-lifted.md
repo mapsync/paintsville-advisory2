@@ -1,0 +1,13 @@
+---
+title: BOIL WATER ADVISORY LIFTED
+draft: false
+date: 2022-03-17T16:44:34.303Z
+description: BOIL WATER ADVISORY LIFTED
+---
+BOIL WATER ADVISORY LIFTED
+
+The boil water advisory issued for the following area:
+
+MILL CREEK IN LEANDER BEGINNING AT 1126 MILL CREEK TO THE END OF MILL CREEK.
+
+**HAS BEEN LIFTED**
