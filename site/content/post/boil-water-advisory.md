@@ -4,14 +4,14 @@ draft: false
 date: 2022-07-25T14:25:13.608Z
 description: BOIL WATER ADVISORY
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ description: BOIL WATER ADVISORY
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -621,9 +621,9 @@ description: BOIL WATER ADVISORY
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -649,7 +649,7 @@ description: BOIL WATER ADVISORY
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -657,7 +657,7 @@ JULY 25TH, 2022
 
 Due to a line break, although no contamination has been confirmed, Paintsville Utilities has voluntarily issued a boil water advisory for:
 
-<!--\[if !supportLists]-->-<!--\[endif]-->ALL OF WEST VAN LEAR
+ALL OF WEST VAN LEAR
 
 This advisory is being issued as a precautionary measure and is in effect until further notice.Paintsville Utilities is advising all customers in the affected areas to boil their water before using it for drinking, making ice, cooking, washing dishes, brushing teeth, or food preparation. Bring all water to a rolling boil, let it boil for three minutes, and let it cool before using.Boiling kills bacteria and other organisms in the water.
 
