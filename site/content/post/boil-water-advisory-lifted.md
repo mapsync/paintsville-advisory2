@@ -1,0 +1,21 @@
+---
+title: BOIL WATER ADVISORY LIFTED
+draft: false
+date: 2024-03-19T15:23:51.178Z
+description: Boil Water Advisory Lifted
+---
+
+
+<!--StartFragment-->
+
+03-19-2024
+
+PAINTSVILLE UTILITIES
+
+BOIL WATER ADVISORY LIFTED
+
+THE BOIL WATER ADVISORY FOR THE FOLLOWING AREAS HAS BEEN LIFTED.
+
+ALL [](<>)OF PRESTON ESTATES
+
+<!--EndFragment-->
