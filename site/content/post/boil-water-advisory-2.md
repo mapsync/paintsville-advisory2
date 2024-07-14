@@ -4,14 +4,14 @@ draft: false
 date: 2024-07-14T02:24:14.537Z
 description: Boil Water Advisory
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ description: Boil Water Advisory
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -621,9 +621,9 @@ description: Boil Water Advisory
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -647,11 +647,11 @@ description: Boil Water Advisory
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-Due to a line break, although no contamination has been confirmed, Paintsville Utilities has voluntarily issued a boil water advisory for the following area: all of Gerald Carr and Toliver Branch in Flag Gap.
+Due to a line break, although no contamination has been confirmed, Paintsville Utilities has voluntarily issued a boil water advisory for the following area: all of Gerald Carr and Toliver Branch in Flat Gap.
 
 Paintsville Utilities is advising all customers in the affected areas to boil their water before using it for drinking, making ice, cooking, washing dishes, brushing teeth or food preparation, bring all water to a rolling boil let it boil for three minutes, and let it cool before using. Boiling kills bacteria and other organisms in the water.
 
