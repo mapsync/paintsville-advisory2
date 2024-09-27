@@ -4,13 +4,13 @@ draft: false
 date: 2024-09-27T19:29:33.046Z
 description: BOIL WATER ADVISORY
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ description: BOIL WATER ADVISORY
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -630,9 +630,9 @@ description: BOIL WATER ADVISORY
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,7 +658,7 @@ description: BOIL WATER ADVISORY
 	mso-font-kerning:1.0pt;
 	mso-ligatures:standardcontextual;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -666,18 +666,10 @@ BOIL WATER ADVISORY
 
 September 27, 2024
 
-Due to a main line break, although no contamination has been confirmed, Paintsville Utilities has voluntarily issued a boil water advisory for the Volga community of Johnson County. The affected area will be fromthe intersection of KY RT 172 with Falls Road to the Ramey Branch Church on KY RT 172, this will also include all hollows and sideroads in between.
-
-
-
-
+Due to a main line break, although no contamination has been confirmed, Paintsville Utilities has voluntarily issued a boil water advisory for the Volga community of Johnson County. The affected area will be from the intersection of KY RT 172 with Falls Road to the Ramey Branch Church on KY RT 172, this will also include all hollows and sideroads in between.  This advisory DOES NOT include Stone Coal Road
 
 This advisory is being issued as a precautionary measure and is in effect until further notice.
 
-
-
 Paintsville Utilities is advising all customers in the affected areas to boil their water before using it for drinking, making ice, cooking, washing dishes, brushing teeth or food preparation. Bring all water to a rolling boil, let it boil for three minutes, and let it cool before using. Boiling kills bacteria and other organisms in the water.
-
-
 
 <!--EndFragment-->
