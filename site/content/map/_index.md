@@ -1,5 +1,5 @@
 ---
-center: '{"type":"Point","coordinates":[-82.8022814,37.8146662]}'
+center: '{"type":"Point","coordinates":[-82.7981046,37.814089]}'
 zoom: 13
 title: Map
 label: Preston Street Boil Water Advisory
