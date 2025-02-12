@@ -1,5 +1,6 @@
 ---
-title: "Contact"
+title: Contact
+logo: /img/android-chrome-192x192.png
 contact_entries:
   - heading: Location & Hours
     text: |
@@ -18,22 +19,35 @@ contact_entries:
       http://www.paintsvilleutilities.com  
       mail@paintsvilleutilities.com
   - heading: Information
-    text: |
+    text: >
       Bill Mike Runyon, Mayor  
-      
-      Tim Spencer, Commissioner  
-      
+
+
+      Jarred Adkins, Commissioner  
+
+
       L.B. Lemaster, Commissioner  
+
 
       Mitch Kinner, Commissioner  
 
-      Jimmy Wright, Commissioner  
+
+      Grady Underwood, Commissioner  
+
 
       Patricia Nelson, Commissioner  
 
+
       Bob Pack, General Manager  
-      Email: bpack@paintsvilleutilities.com  
+
+      Email: bpack@paintsvilleutilities.com 
+
+
+      Matt Spradlin, Assistant General Manager
+
+      Email: lmspradlin@paintsvilleutilities.com 
+
 
       Commission Meeting: Held the 1st Monday of each month at 5 pm in the utility office conference room.
 ---
-
+P﻿aintsville Utilities is a water, wastewater and Natural gas utility providing services throughout the city of Paintsville and the surrounding area of Johnson County as well as areas in Lawrence, Floyd, and Martin Counties.
