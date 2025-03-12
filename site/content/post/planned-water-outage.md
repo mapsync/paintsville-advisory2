@@ -1,17 +1,17 @@
 ---
-title: PLANNED WATER OUTAGE
+title: Boil Water Advisory
 draft: false
-date: 2025-03-11T19:16:04.231Z
-description: PLANNED WATER OUTAGE
+date: 2025-03-12T19:16:04.231Z
+description: BOIL WATER ADVISORY
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ description: PLANNED WATER OUTAGE
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ description: PLANNED WATER OUTAGE
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -659,32 +659,22 @@ description: PLANNED WATER OUTAGE
 	mso-font-kerning:1.0pt;
 	mso-ligatures:standardcontextual;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-REVISED
 
 
+03-12-2025
 
-03-11-2025
+B﻿OIL WATER ADVISORY
 
+D﻿UE TO A MAIN LINE BREAK, ALTHOUGH NO CONTAMINATIONHAS BEEN CONFIRMED, PAINTSVILLE UTILITIES HAS VOLUNTARILY ISSUED A BOIL WATER ADVISORY FOR THE FOLLOWING AREA; 
 
-
-PLANNED WATER OUTAGE
-
-
-
-
-
-DUE TO LINE MAINTENANCE, BEGINNING ON **MARCH 12, 2025, AT APPROXIMATELY 8:00 A.M**PAINTSVILLE UTILITIES WILL HAVE THE WATER OFF IN THE FOLLOWING AREAS:
-
-**ALL OF WEST VAN LEAR, VAN LEAR, POWELL ADDITION, AMERICAN STANDARD AREA, INDUSTRIAL PARK, CANNEL COAL GAP, AND JASPER LANE**
+**ALL OF WEST VAN LEAR, VAN LEAR, POWELL ADDITION, AMERICAN STANDARD AREA, INDUSTRIAL PARK, CANNEL COAL GAP, JASPER LANE, AND DUGAN DRIVE.**
 
 **ALSO INCLUDES KY RT 321 AND POWELL ADDITION INTERSECTION UP TO AMERICAN STANDARD BRIDGE ON KY RT 321.**
 
-ONCE SERVICES ARE RESTORED THERE WILL BE A BOIL WATER ADVISORY ISSUED FOR THESE AREAS.
-
-WE APOLIZE FOR ANY INCONVENIENCE THIS MAY CAUSE.
+.
 
 <!--EndFragment-->
