@@ -1,0 +1,24 @@
+---
+title: Boil Water Advisory Lifted
+draft: false
+date: 2025-11-06T18:01:47.201Z
+description: Boil Water Advisory Lifted
+---
+<!--StartFragment-->
+
+<!--StartFragment-->
+
+11-06-25\
+\
+Paintsville Utilities\
+\
+BOIL WATER ADVISORY LIFTED\
+\
+The boil water advisory has been lifted for the following areas:\
+\
+STARTING AT THE INTERSECTION OF LITTLE MUD LICK AND KY RT 40 W UP TO SPILLWAY AND CROSS CREEK AND ALL SIDE ROADS AND KY RT 172 UP TO THE RAMEY BRANCH CHURCH ON KY RT 172 NOT INCLUDING STONE COAL\
+ON LITTLE MUD LICK ROAD UP TO RULE BRANCH STARTING AT THE INTERSECTION OF KY RT 40 W AND KY RT 172 UP TO RAMEY BRANCH CHURCH NOT INCLUDING STONE COAL
+
+
+
+<--EndFragment-->
