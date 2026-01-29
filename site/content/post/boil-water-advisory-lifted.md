@@ -4,15 +4,13 @@ draft: false
 date: 2026-01-29T16:57:50.192Z
 description: "THE BOIL WATER ADVISORY HAS BEEN LIFTED "
 ---
-
-
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +49,9 @@ description: "THE BOIL WATER ADVISORY HAS BEEN LIFTED "
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +630,9 @@ description: "THE BOIL WATER ADVISORY HAS BEEN LIFTED "
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,7 +658,7 @@ description: "THE BOIL WATER ADVISORY HAS BEEN LIFTED "
 	mso-font-kerning:1.0pt;
 	mso-ligatures:standardcontextual;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -678,6 +676,6 @@ THE BOIL WATER ADVISORY FOR THE FOLLOWING AREA:
 
 **MAIN ST FROM THE INTERSECTION OF MAIN ST AND COURT STREET DOWN TO THE INTERSECTION OF MAIN ST AND COLLEGE**
 
-**HAS BEEN LIFED**
+**HAS BEEN LIFTED**
 
 <!--EndFragment-->
