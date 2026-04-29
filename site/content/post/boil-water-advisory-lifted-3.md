@@ -4,7 +4,7 @@ draft: false
 date: 2026-04-29T14:58:35.205Z
 description: "Boil Water Advisory Lifted "
 ---
-04-27-2026
+04-29-2026
 
 PAINTSVILLE UTILITIES
 
