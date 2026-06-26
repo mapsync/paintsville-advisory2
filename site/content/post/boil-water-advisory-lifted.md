@@ -1,7 +1,7 @@
 ---
 title: "Boil Water Advisory Lifted "
 draft: false
-date: 2026-06-05T15:51:27.761Z
+date: 2026-06-26T15:45:11.033Z
 description: "Boil Water Advisory Lifted "
 ---
 The boil water advisory has been lifted for the following areas:
