@@ -6,9 +6,7 @@ description: "Boil Water Advisory "
 ---
 <!--StartFragment-->
 
-07/13/26<!--StartFragment-->
 
-07/13/26<!--StartFragment-->
 
 
 
@@ -17,8 +15,6 @@ BOIL WATER ADVISORY
 July 22, 2026
 
 4:30 PM
-
-
 
 Due to a main line break, although no contamination has been confirmed, Paintsville Utilities has voluntarily issued a boil water advisory for the Staffordsville community of Johnson County. The affected areas willinclude:
 
@@ -40,49 +36,10 @@ Due to a main line break, although no contamination has been confirmed, Paintsvi
 
 \-From the intersection of Rt 460 and Rt 40 West atStaffordsville tothe intersection of KY Rt 40 West with Little Mud Lick Road including all hollows and sideroad. This does not include Little Mud Lick Road.
 
-
-
 This advisory is being issued as a precautionary measure and is in effect until further notice.
-
-
 
 Paintsville Utilities advises all customers in the affected areas to boil their water before using it for drinking, making ice, cooking, washing dishes, brushing teeth or food preparation. Bring all water to a rolling boil, let it boil for three minutes, and let it cool beforeusing. Boiling kills bacteria and other organisms in the water.
 
-
-
-
-
-
-
-
-
 <!--EndFragment-->\
-\
-Paintsville Utilities\
-\
-Boil Water Advisory Lifted\
-\
-The boil water advisory for the following areas has been lifted.\
-All of Dicey Fork in the Meally area. Also included is Boat Gunnel Fork to the top of the hill from Dicey Fork.
 
-<!--EndFragment-->\
-\
-Paintsville Utilities\
-\
-Boil Water Advisory Lifted\
-<!--StartFragment-->
-
-07/13/26\
-\
-Paintsville Utilities\
-\
-Boil Water Advisory Lifted\
-\
-The boil water advisory for the following areas has been lifted.\
-All of Dicey Fork in the Meally area. Also included is Boat Gunnel Fork to the top of the hill from Dicey Fork.
-
-<!--EndFragment-->\
-The boil water advisory for the following areas has been lifted.\
-All of Dicey Fork in the Meally area. Also included is Boat Gunnel Fork to the top of the hill from Dicey Fork.
-
-<!--EndFragment-->
+nt-->
