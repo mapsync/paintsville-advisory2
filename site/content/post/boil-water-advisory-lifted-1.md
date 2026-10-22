@@ -1,0 +1,20 @@
+---
+title: Boil Water Advisory Lifted
+draft: false
+date: 2026-10-22T17:53:40.195Z
+description: |
+  BOIL WATER ADVISORY LIFTED
+---
+<!--StartFragment-->
+
+10-22-2026
+
+PAINTSVILLE UTILITIES
+
+BOIL WATER ADVISORY LIFTED
+
+THE BOIL WATER ADVISORY FOR THE FOLLOWING AREA HAS BEEN LIFTED;
+
+ALL OF HORNE BRANCH
+
+<!--EndFragment-->
